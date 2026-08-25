@@ -22,7 +22,7 @@ _Building reliable backend systems and practical AI applications — from recomm
 
 ### 💼 Professional Experience
 
-**Backend / AI Engineer — Vreel's** _(May 2024 – Present)_
+**Backend / AI Engineer — Vreel's** _(OCT 2023 – Present)_
 
 - Build and maintain production recommendation systems for a short-form video/content platform — multi-tower embedding models, candidate generation, and ranking, served via FastAPI with Kafka event streaming and Redis caching
 - Built visual content-based recommendations using FAISS similarity search over image & video embeddings
